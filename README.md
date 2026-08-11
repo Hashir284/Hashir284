@@ -1,19 +1,45 @@
-<h1 align="center">Hi 👋, I'm Hashir</h1>
-<h3 align="center">I'm a Junior Front-End Developer focused on building clean, fast, and responsive web applications. I love taking on modern UI challenges and fixing real-world web performance bugs.</h3>
+# Hi there, I'm Hashir! 👋
 
-- 🔭 I’m currently working on [https://github.com/Hashir284/AI-web-app-react-firebase-AiAPI](https://chatverseaipro.web.app/)
+I'm a **Junior Front-End Developer** focused on building clean, fast, and responsive web applications. I love taking on modern UI challenges and fixing real-world web performance bugs.
 
-- 🌱 I’m currently learning **Nextjs, Typescript, Nodejs**
+---
 
-- 👨‍💻 All of my projects are available at [https://projects-lists-nu.vercel.app/#portfolio](https://projects-lists-nu.vercel.app/#portfolio)
+### 🛠️ Tech Stack & Tools
 
-- 📫 How to reach me **onlyforprofile1@gmail.com**
+* **Frontend:** React.js, Next.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS
+* **Data Fetching & APIs:** REST APIs, Axios, Firebase
+* **Deployment & Version Control:** GitHub, Vercel, Surge, Netlify
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/muhammad hashir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad hashir" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### 🚀 What I Do
+
+* 💻 Build dynamic, mobile-first user interfaces using React & Next.js.
+* ⚡ Integrate REST APIs and handle dynamic routing / card rendering.
+* 🔧 Debug UI layout issues. <!-- and optimize web performance -->
+
+---
+
+### 🤝 Freelance & Client Services
+
+If you're a business owner or client looking to bring your project online:
+* 🎨 **Custom Web Design:** Convert Figma into clean, responsive websites.
+* ⚡ **Performance & Speed:** Build fast-loading web pages optimized for mobile, tablet, and desktop screens.
+* 🛠️ **Bug Fixes & Tweaks:** Resolve layout glitches, broken UI elements, or modern API integration issues.
+
+### 🎯 Current Focus & Goal
+
+* 📚 Actively learning and upgrading my skills to become a Full-Stack Developer.
+
+---
+
+###  📫 Connect With Me
+
+- 💼 LinkedIn — https://www.linkedin.com/in/muhammad-hashir-319045394/
+- 🌐 Portfolio — https://projects-lists-nu.vercel.app/
+- 📧 Email — onlyforprofile1@gmail.com
+
+---
+
+⚡ *Always learning, building, and fixing code!*
 
