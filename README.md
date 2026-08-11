@@ -12,7 +12,7 @@ I'm a **Junior Front-End Developer** focused on building clean, fast, and respon
 
 ---
 
-### 🚀 What I Do
+### ⚡ What I Do
 
 * 💻 Build dynamic, mobile-first user interfaces using React & Next.js.
 * ⚡ Integrate REST APIs and handle dynamic routing / card rendering.
