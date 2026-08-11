@@ -20,6 +20,13 @@ I'm a **Junior Front-End Developer** focused on building clean, fast, and respon
 
 ---
 
+### 🤝 Freelance & Client Services
+
+If you're a business owner or client looking to bring your project online:
+* 🎨 **Custom Web Design:** Convert Figma into clean, responsive websites.
+* ⚡ **Performance & Speed:** Build fast-loading web pages optimized for mobile, tablet, and desktop screens.
+* 🛠️ **Bug Fixes & Tweaks:** Resolve layout glitches, broken UI elements, or modern API integration issues.
+
 ### 🎯 Current Focus & Goal
 
 * 📚 Actively learning and upgrading my skills to become a Full-Stack Developer.
