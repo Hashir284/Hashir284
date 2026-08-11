@@ -36,7 +36,7 @@ If you're a business owner or client looking to bring your project online:
 ###  📫 Connect With Me
 
 - 💼 LinkedIn — https://www.linkedin.com/in/muhammad-hashir-319045394/
-- 🌐 Portfolio — https://projects-lists-nu.vercel.app/#portfolio
+- 🌐 Portfolio — https://projects-lists-nu.vercel.app/
 - 📧 Email — onlyforprofile1@gmail.com
 
 ---
