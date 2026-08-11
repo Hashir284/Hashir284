@@ -1,89 +1,32 @@
-# 👋 Hi, I'm Muhammad Hashir
+# Hi there, I'm Hashir! 👋
 
-### Full Stack Development Student | Frontend Developer
-
----
-
-### 👨‍💻 About Me
-
-I'm a Full Stack Development student and aspiring Full Stack Developer, currently focused on **Frontend Development**. I enjoy turning ideas into modern, responsive, and user-friendly web applications.
-
-I have hands-on experience with **HTML, CSS, JavaScript, Tailwind CSS, React.js, Firebase, REST APIs, and GitHub**. I enjoy building real-world projects, creating clean user interfaces, and continuously improving my development skills.
-
-My goal is to become a professional **Full Stack Developer** and build scalable, high-quality applications that solve real-world problems.
+I'm a **Junior Front-End Developer** focused on building clean, fast, and responsive web applications. I love taking on modern UI challenges and fixing real-world web performance bugs.
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Tools
 
-**Frontend**
-
-- HTML5
-- CSS3
-- JavaScript
-- Tailwind CSS
-- Bootstrap
-- React.js
-
-**Backend & Services**
-
-- Firebase
-- REST APIs
-- Node.js
-- Express.js
-
-**Database**
-
-- MongoDB
-- Firebase Firestore
-
-**Tools**
-
-- GitHub
-- VS Code
-- Postman
-- Vercel
-- Netlify
-
-**Currently Exploring**
-
-- TypeScript
-- Next.js
+* **Frontend:** React.js, Next.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS
+* **Data Fetching & APIs:** REST APIs, Axios, Firebase
+* **Deployment & Version Control:** GitHub, Vercel, Surge, Netlify
 
 ---
 
-### 🚀 Currently
+### 🚀 What I Do
 
-✔ Building Modern React Applications  
-✔ Turning Ideas into Responsive Web Interfaces  
-✔ Developing Real-World Frontend Projects  
-✔ Integrating APIs into Web Applications  
-✔ Creating Clean & User-Friendly UI  
-✔ Improving JavaScript & Problem-Solving Skills  
-✔ Growing as a Full Stack Developer  
+* 💻 Build dynamic, mobile-first user interfaces using React & Next.js.
+* ⚡ Integrate REST APIs and handle dynamic routing / card rendering.
+* 🔧 Debug UI layout issues. <!-- and optimize web performance -->
 
 ---
 
-### 📌 Featured Projects
+### 🎯 Current Focus & Goal
 
-🔹 **ChatVerse AI**  
-AI-powered chat application built with React, Firebase and AI APIs.
-
-🔹 **Task Manager**  
-Modern task management application built with React.
-
-🔹 **Product Listing App**  
-Product browsing application using React and REST APIs.
-
-🔹 **Firebase Authentication System**  
-Authentication system with Firebase.
-
-🔹 **Weather App**  
-Weather application using API integration.
+* 📚 Actively learning and upgrading my skills to become a Full-Stack Developer.
 
 ---
 
-### 🤝 Let's Connect
+###  📫 Connect With Me
 
 - 💼 LinkedIn — https://www.linkedin.com/in/muhammad-hashir-319045394/
 - 🌐 Portfolio — https://projects-lists-nu.vercel.app/
@@ -91,6 +34,4 @@ Weather application using API integration.
 
 ---
 
-### 💡
-
-**Learn. Build. Ship. Grow. 🚀**
+⚡ *Always learning, building, and fixing code!*
