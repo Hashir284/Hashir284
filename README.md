@@ -1,45 +1,73 @@
-# Hi there, I'm Hashir! 👋
+# Hi, I'm Muhammad Hashir 👋
 
-I'm a **Junior Front-End Developer** focused on building clean, fast, and responsive web applications. I love taking on modern UI challenges and fixing real-world web performance bugs.
+### Junior Full-Stack Developer | React.js • Next.js • Node.js • MongoDb • PostgreSQL
+
+I'm a developer from Karachi, Pakistan, passionate about building modern, responsive, and user-friendly web applications. I enjoy turning ideas into functional products, solving real-world problems, and continuously improving my development skills.
+
+Currently, I'm focused on strengthening my full-stack development skills and building practical projects with modern web technologies.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-* **Frontend:** React.js, Next.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS
-* **Data Fetching & APIs:** REST APIs, Axios, Firebase
-* **Deployment & Version Control:** GitHub, Vercel, Surge, Netlify
+**Frontend Development**
+- React.js
+- Next.js (App Router)
+- JavaScript (ES6+)
+- Basic TypeScript
+- HTML5 & CSS3
+- Tailwind CSS
+
+**Backend Development**
+- Node.js
+- Express.js
+- REST APIs
+- Authentication & Authorization
+- JWT & HTTP Cookies
+
+**Databases & Cloud**
+- PostgreSQL
+- MongoDB
+- Firebase / Firestore
+- Cloudinary
+
+**Tools & Workflow**
+- Git & GitHub
+- GitHub Desktop
+- VS Code
+- npm
+- Chrome DevTools
+- Vercel & Netlify
 
 ---
 
 ### ⚡ What I Do
 
-* 💻 Build dynamic, mobile-first user interfaces using React & Next.js.
-* ⚡ Integrate REST APIs and handle dynamic routing / card rendering.
-* 🔧 Debug UI layout issues. <!-- and optimize web performance -->
+- 💻 Build responsive and interactive user interfaces using React.js and Next.js.
+- 🔌 Develop and integrate RESTful APIs.
+- 🔐 Implement authentication and role-based authorization.
+- 🗄️ Design database schemas and work with PostgreSQL and MongoDB.
+- 🎨 Create modern UI experiences with Tailwind CSS.
+- 🐛 Debug applications, fix issues, and improve performance.
+- 🌿 Use Git branches and version control to manage development workflows.
 
 ---
 
-### 🤝 Freelance & Client Services
+### 🎯 Current Focus
 
-If you're a business owner or client looking to bring your project online:
-* 🎨 **Custom Web Design:** Convert Figma into clean, responsive websites.
-* ⚡ **Performance & Speed:** Build fast-loading web pages optimized for mobile, tablet, and desktop screens.
-* 🛠️ **Bug Fixes & Tweaks:** Resolve layout glitches, broken UI elements, or modern API integration issues.
-
-### 🎯 Current Focus & Goal
-
-* 📚 Actively learning and upgrading my skills to become a Full-Stack Developer.
+- Strengthening React.js and Next.js fundamentals.
+- Improving backend development with Node.js and Express.js.
+- Practicing MongoDb.
+- Mastering Git, GitHub, branching, merging, and collaboration workflows.
+- Learning production-ready development practices and deployment.
 
 ---
 
-###  📫 Connect With Me
+### 🤝 Let's Connect
 
-- 💼 LinkedIn — https://www.linkedin.com/in/muhammad-hashir-319045394/
-- 🌐 Portfolio — https://projects-lists-nu.vercel.app/
-- 📧 Email — onlyforprofile1@gmail.com
+- 💼 LinkedIn: [Muhammad Hashir](https://www.linkedin.com/in/muhammad-hashir-319045394/)
+- 📧 Email: hashirdev68@gmail.com
 
 ---
 
-⚡ *Always learning, building, and fixing code!*
-
+⚡ Always learning, building, and turning ideas into reality!
